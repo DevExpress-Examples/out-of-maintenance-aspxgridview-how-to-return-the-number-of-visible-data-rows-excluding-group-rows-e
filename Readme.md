@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxGridView - How to return the number of visible data rows excluding group rows
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4122/)**
+<!-- run online end -->
 
 
 <p>To change the number of visible data rows excluding group rows, do the following:</p><p>- Define the TotalSummary item:</p>
